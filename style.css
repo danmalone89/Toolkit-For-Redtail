@@ -1,0 +1,17 @@
+.fc-sun {
+    background-color: #f7f7f7 !important
+}
+
+.fc-sat {
+    background-color: #f7f7f7 !important
+}
+
+/* Changes the today view for the visually impaired to have a dashed red border */
+
+.fc-today {
+    background-color: #4effd373 !important;
+}
+
+.fc-past {
+    background: #f7f7f7 !important;
+}
